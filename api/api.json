@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Ayah",
+      "price": 100000,
+      "stock": 20,
+      "img_url": "https://2.bp.blogspot.com/-g4LdDv6mx4M/WOOuyoid5NI/AAAAAAAAAUw/uo9QA8ByJho7gC5AVO0hCMj7UQwzwaY5ACLcB/s1600/novel%2Bayah.jpg",
+      "author": "Andrea Hirata",
+      "tahun": 2010,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 2,
+      "name": "Hilda",
+      "price": 150000,
+      "stock": 8,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiAhXikE8wirx4eJj0gHDrhEuT043MQ7Nb9MYXZqaby1Tbi4&s",
+      "author": "Idris Sardi",
+      "tahun": 2012,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 3,
+      "name": "Diam Dalam Cinta",
+      "price": 200000,
+      "stock": 8,
+      "img_url": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/9/31087717/31087717_6468742d-0f5f-40f2-9c4e-2ff026136bdc_700_990.jpg",
+      "author": "Habiburahman",
+      "tahun": 2015,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 4,
+      "name": "Mengejar Cinta Halal",
+      "price": 75000,
+      "stock": 10,
+      "img_url": "https://bukubukularis.com/wp-content/uploads/2018/11/Mengejar-Cinta-Halal.jpg",
+      "author": "Ust Zaki",
+      "tahun": 2018,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 5,
+      "name": "Arjuna & Kirana",
+      "price": 80000,
+      "stock": 8,
+      "img_url": "https://bukubukularis.com/wp-content/uploads/2018/01/Arjuna-dan-Kirana.jpg",
+      "author": "Dewi Kania",
+      "tahun": 2019,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 6,
+      "name": "Cinta Yang Diacuhkan",
+      "price": 150000,
+      "stock": 8,
+      "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT81AvW8OUFMkHYfasJ81ds5amn6ASvF0SxJPY3QRghO0-AG2&s",
+      "author": "Jane White",
+      "tahun": 2019,
+      "penerbit": "Gramedia"
+    },
+    {
+      "id": 7,
+      "name": "Sahabat Jadi cinta",
+      "price": 50000,
+      "stock": 8,
+      "img_url": "https://a.wattpad.com/cover/135992350-288-k563803.jpg",
+      "author": "Shinta Nurmala",
+      "tahun": 2015,
+      "penerbit": "Gramedia"
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1,
+      "id_product": 1,
+      "product_name": "Ayah",
+      "image": "https://2.bp.blogspot.com/-g4LdDv6mx4M/WOOuyoid5NI/AAAAAAAAAUw/uo9QA8ByJho7gC5AVO0hCMj7UQwzwaY5ACLcB/s1600/novel%2Bayah.jpg",
+      "price": 100000
+    },
+    {
+      "id_product": 6,
+      "product_name": "Cinta Yang Diacuhkan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT81AvW8OUFMkHYfasJ81ds5amn6ASvF0SxJPY3QRghO0-AG2&s",
+      "price": 150000,
+      "id": 2
+    },
+    {
+      "id_product": 7,
+      "product_name": "Sahabat Jadi cinta",
+      "image": "https://a.wattpad.com/cover/135992350-288-k563803.jpg",
+      "price": 50000,
+      "id": 3
+    },
+    {
+      "id_product": 1,
+      "product_name": "Ayah",
+      "image": "https://2.bp.blogspot.com/-g4LdDv6mx4M/WOOuyoid5NI/AAAAAAAAAUw/uo9QA8ByJho7gC5AVO0hCMj7UQwzwaY5ACLcB/s1600/novel%2Bayah.jpg",
+      "price": 100000,
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "id_product": 3,
+      "product_name": "Diam Dalam Cinta",
+      "image": "https://ecs7.tokopedia.net/img/cache/700/product-1/2018/5/9/31087717/31087717_6468742d-0f5f-40f2-9c4e-2ff026136bdc_700_990.jpg",
+      "price": 200000,
+      "id": 2
+    },
+    {
+      "id_product": 5,
+      "product_name": "Arjuna & Kirana",
+      "image": "https://bukubukularis.com/wp-content/uploads/2018/01/Arjuna-dan-Kirana.jpg",
+      "price": 80000,
+      "id": 3
+    }
+  ]
+}
