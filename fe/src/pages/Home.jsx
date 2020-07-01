@@ -67,7 +67,7 @@ export class Home extends Component {
                         <h2 className='text-center'>Produk Books</h2>
                     </div>
                 </div>
-                <div className='row' style={{justifyContent:'space-between'}}>
+                <div className='row' style={{justifyContent:'start'}}>
                     {this.printDataBooks()}
                 </div>    
             </div>

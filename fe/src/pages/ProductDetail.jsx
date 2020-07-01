@@ -14,6 +14,7 @@ export default class ProductDetail extends Component {
         console.log(id)
         this.getBookDetail(id)
     }
+    
     getBookDetail = (param) => {
         Axios.get(urlApi+'products/'+param)
         .then((res)=>{
@@ -74,7 +75,7 @@ export default class ProductDetail extends Component {
     render() {
         if(this.state.dataBooks === null){
             return(
-                <h2>Network Error</h2>
+                <h2>Loading</h2>
             )
         }
         if(this.state.dataBooks.length === 0){
@@ -108,7 +109,7 @@ export default class ProductDetail extends Component {
                             <div className='btn btn-success' style={{width: 200}} onClick={() => this.addToWishlist()}>Add to Wishlist</div>
                         </div>
                     </div>
-                    <div className='col-md-2'>
+                    <div className='col-md-3'>
                         <div className='row mb-3'>
                             {this.state.dataBooks.name}  
                         </div>

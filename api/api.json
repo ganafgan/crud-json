@@ -69,23 +69,19 @@
       "author": "Shinta Nurmala",
       "tahun": 2015,
       "penerbit": "Gramedia"
+    },
+    {
+      "name": "Sahabat kok Romantis ?",
+      "price": 120000,
+      "stock": 10,
+      "img_url": "https://cf.shopee.co.id/file/8d32f813f60808178825f44eb9167131",
+      "author": "Andrea Dian",
+      "tahun": "2019",
+      "penerbit": "Gramedia",
+      "id": 8
     }
   ],
   "wishlist": [
-    {
-      "id": 1,
-      "id_product": 1,
-      "product_name": "Ayah",
-      "image": "https://2.bp.blogspot.com/-g4LdDv6mx4M/WOOuyoid5NI/AAAAAAAAAUw/uo9QA8ByJho7gC5AVO0hCMj7UQwzwaY5ACLcB/s1600/novel%2Bayah.jpg",
-      "price": 100000
-    },
-    {
-      "id_product": 6,
-      "product_name": "Cinta Yang Diacuhkan",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT81AvW8OUFMkHYfasJ81ds5amn6ASvF0SxJPY3QRghO0-AG2&s",
-      "price": 150000,
-      "id": 2
-    },
     {
       "id_product": 7,
       "product_name": "Sahabat Jadi cinta",
@@ -94,10 +90,10 @@
       "id": 3
     },
     {
-      "id_product": 1,
-      "product_name": "Ayah",
-      "image": "https://2.bp.blogspot.com/-g4LdDv6mx4M/WOOuyoid5NI/AAAAAAAAAUw/uo9QA8ByJho7gC5AVO0hCMj7UQwzwaY5ACLcB/s1600/novel%2Bayah.jpg",
-      "price": 100000,
+      "id_product": 6,
+      "product_name": "Cinta Yang Diacuhkan",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlT81AvW8OUFMkHYfasJ81ds5amn6ASvF0SxJPY3QRghO0-AG2&s",
+      "price": 150000,
       "id": 4
     }
   ],
@@ -115,6 +111,13 @@
       "image": "https://bukubukularis.com/wp-content/uploads/2018/01/Arjuna-dan-Kirana.jpg",
       "price": 80000,
       "id": 3
+    },
+    {
+      "id_product": 3,
+      "product_name": "Sahabat Jadi cinta",
+      "image": "https://a.wattpad.com/cover/135992350-288-k563803.jpg",
+      "price": 50000,
+      "id": 4
     }
   ]
 }
